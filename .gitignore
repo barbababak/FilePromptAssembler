@@ -1,0 +1,13 @@
+# Visual Studio cache and per-user settings
+.vs/
+*.user
+*.suo
+
+# Build output
+bin/
+obj/
+publish/
+
+# App data written next to the exe (personal projects, history, settings)
+Data/
+*.damaged-*
