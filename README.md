@@ -2,6 +2,10 @@
 
 A Windows desktop app (.NET 10, WinForms) that combines your request with the contents of selected source files from a project folder into one prompt, ready to paste into an AI assistant such as ChatGPT, Claude or Gemini.
 
+![File Prompt Assembler main window (Dark theme)](docs/images/screenshot.png)
+
+**Download:** get the ready-to-run `FilePromptAssembler.exe` (single file, no .NET installation needed) from [Releases](https://github.com/barbababak/FilePromptAssembler/releases/latest).
+
 ## Features
 
 - Keep a list of projects; each one is saved automatically and restored when you select it.
